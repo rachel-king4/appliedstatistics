@@ -63,7 +63,7 @@ Once the repository is cloned, the cloned directory can be opened and ran in a c
 
 ## Dependencies
 
-You can install all the required dependencies in one step by using the requirements.txt file:
+All required dependencies can be installed in one step by using the `requirements.txt` file:
 
 Clone the repository and navigate to the project directory.
 Install the dependencies:
