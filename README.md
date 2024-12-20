@@ -1,6 +1,17 @@
 # appliedstatistics
 Repository for Applied Statistics Module Winter 2024
 
+## Contents of the Repository
+
+This repository contains coursework created and maintained as part of the module Applied Statistics, undertaken as part of the Higher Diploma in Science in Data Analytics in ATU, Galway.
+
+The repository contains two Jupyter notebooks:
+
+- tasks.ipynb (contains my answers to assessment tasks set out by the module lecturer, accounts for 40% of the module assessment)
+- project.ipynb (contains my code and notes for the project assessment set out by the module lecturer, accounts for 40% of the module assessment)
+
+Other content in the repository is a .gitignore file which specifies intentionally untracked files that Git should ignore.
+
 ## Learning Outcomes
 
 1. Data Exploration and Preprocessing
@@ -27,19 +38,6 @@ Repository for Applied Statistics Module Winter 2024
 5. Critical Thinking and Communication
 
     - Critically evaluate the assumptions and limitations of statistical tests used.
-
-
-## Contents of the Repository
-
-This repository contains coursework created and maintained as part of the module Applied Statistics, undertaken as part of the Higher Diploma in Science in Data Analytics in ATU, Galway.
-
-The repository contains two Jupyter notebooks:
-
-- tasks.ipynb (contains my answers to assessment tasks set out by the module lecturer, accounts for 40% of the module assessment)
-- project.ipynb (contains my code and notes for the project assessment set out by the module lecturer, accounts for 40% of the module assessment)
-
-Other content in the repository is a .gitignore file which specifies intentionally untracked files that Git should ignore.
-
 
 ## Installation and Usage
 
