@@ -6,7 +6,6 @@ Repository for Applied Statistics Module Winter 2024
 1. Data Exploration and Preprocessing
 
     - Understand how to import and clean real-world data for statistical analysis.
-    - Identify and handle missing, outlier, or erroneous data within a dataset.
     - Explore data distributions and visualize key features using appropriate plots.
 
 2. Statistical Test Selection
@@ -20,17 +19,12 @@ Repository for Applied Statistics Module Winter 2024
     - Conduct statistical tests using Python libraries (e.g., scipy, statsmodels) to test hypotheses.
     - Interpret p-values and test statistics in the context of the claim being made.
 
-5. Visualization of Results
-
-    - Create visualizations (e.g., bar plots, histograms, box plots, scatter plots) that effectively describe datasets.
-
-6. Reproducibility and Documentation
+4. Reproducibility and Documentation
 
     - Use Jupyter notebooks to document the process of data analysis, including data exploration, hypothesis testing, and result interpretation.
-    - Provide clear and reproducible steps for others to follow the analysis and verify results.
     - Include appropriate comments and explanations in notebooks to facilitate understanding of statistical concepts.
 
-7. Critical Thinking and Communication
+5. Critical Thinking and Communication
 
     - Critically evaluate the assumptions and limitations of statistical tests used.
 
